@@ -2,7 +2,7 @@
 
 /**
  * main - print lowercase letters
- *
+ * Description: prints all lowercase letters
  * Return: Always 0.
  */
 
